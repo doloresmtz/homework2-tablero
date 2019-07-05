@@ -1,0 +1,21 @@
+{
+    "tableros": [
+      {
+        "title": "FAMILIA",
+        "items": [ "Iktan", "Issac", "Ixchel", "Betty"]
+      },
+      {
+        "title": "AMIGOS",
+        "items": [ "Mike", "David", "Andres"]
+      },
+      {
+        "title": "COMIDA",
+        "items": [ "Spagetti", "Tlayuda", "Sopa","Azado"]
+      },
+      {
+        "title": "LUGARES",
+        "items": [ "Dubai", "Mexico", "USA"]
+      }
+    ]
+  }
+  
